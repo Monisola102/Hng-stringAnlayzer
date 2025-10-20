@@ -3,4 +3,5 @@ A simple Express.js API that analyzes strings — it checks for palindromes, cou
 Includes filtering options and natural language query support.  
 Run locally with `npm install` and `npm run dev`.  
 Base URL: `http://localhost:4000/`
+Live Demo: https://hng-stringanlayzer-production.up.railway.app
 
